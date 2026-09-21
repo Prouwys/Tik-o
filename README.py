@@ -1,5 +1,3 @@
-python
-Tic Tac Toe Game (2 Players)
 def print_board(board):
     for row in board:
         print(" | ".join(row))
